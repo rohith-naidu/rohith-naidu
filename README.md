@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohith-naidu
-- 👀 I’m interested in Data Analytics in Financial or Banking Domain
+- 👀 I’m interested in Data Analytics in Financial/Banking Domain
 - 💞️ Have Expertise in SQL, PowerBI and Python (Pandas & Numpy)
 - 💞️ Love for ETL, Data Modelling, Manipulation and Visualisation
 - 📫 Reach me @ +91 9492 000 730  or email me @ rknaidu.rohith@gmail.com
